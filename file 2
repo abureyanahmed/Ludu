@@ -1,0 +1,14 @@
+Last login: Tue May 23 21:02:21 on ttys000
+eXception:~ rfn$ cd /Users/rfn/Projects/
+eXception:Projects rfn$ mkdir ludu
+eXception:Projects rfn$ cd ludu/
+eXception:ludu rfn$ git pull https://github.com/arfan-rfn/Ludu.git
+fatal: Not a git repository (or any of the parent directories): .git
+eXception:ludu rfn$ git pull https://github.com/abureyanahmed/Ludu.git
+fatal: Not a git repository (or any of the parent directories): .git
+eXception:ludu rfn$ git init
+Initialized empty Git repository in /Users/rfn/Projects/ludu/.git/
+eXception:ludu rfn$ https://github.com/abureyanahmed/Ludu.git
+-bash: https://github.com/abureyanahmed/Ludu.git: No such file or directory
+eXception:ludu rfn$ 
+
